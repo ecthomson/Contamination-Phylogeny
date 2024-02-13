@@ -5,7 +5,7 @@ Description - This script is designed to automate the process of analyzing viral
 Dependencies
 ClusterPicker
 Java
-IQ-TREE
+Fasttree
 Please ensure all dependencies are installed and accessible in your system's PATH before running the script.
 
 Usage
