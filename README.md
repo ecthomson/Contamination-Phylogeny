@@ -1,5 +1,8 @@
 Cross-Contamination Phylogeny Script - Emma Thomson 12th February 2024 
 
+![Cross-Contamination Figure](Contamination-Phylogeny/Cross-contamination.png)
+
+
 Description - This script is designed to automate the process of analyzing viral genomic data, focusing on identifying cross-contamination events and constructing phylogenetic trees. It integrates sorting, filtering, and phylogenetic analysis tools.
 
 Dependencies
